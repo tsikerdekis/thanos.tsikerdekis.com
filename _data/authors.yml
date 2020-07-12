@@ -1,8 +1,8 @@
 # Authors
 
-Michael Tsikerdekis:
-  name        : "Michael Tsikerdekis"
-  uri         : "http://michael.tsikerdekis.com"
-  email       : "Michael.Tsikerdekis@wwu.edu"
-  bio         : "Michael Tsikerdekis is an assistant professor in the Computer Science Department at Western Washington University. His research interests include deception, data mining, cybersecurity, and social computing. Tsikerdekis has a PhD in Informatics from Masaryk University. He is a senior member of the Institute of Electrical and Electronics Engineers."
+Thanos Tsikerdekis:
+  name        : "Thanos Tsikerdekis"
+  uri         : "https://thanos.tsikerdekis.com"
+  email       : "A.Tsikerdekis@sron.nl"
+  bio         : "I work as a Post-doctoral research at SRON’s Earth group. My research focuses on atmospheric aerosol particles, bridging the gap between satelite and model estimate using an ensemble based data assimilation technique. My work aims to develop a data assimilation system for top-down estimates of aersol emissions based on multi-angle photopolarimetric aerosol retrieval of POLDER/PARASOL."
   avatar      : "bio-photo-2.jpg"
