@@ -5,19 +5,17 @@ permalink: /contact/
 author_profile: true
 ---
 
-Michael Tsikerdekis
+Thanos Tsikerdekis
 
-Computer Science Department
+Room 2.038
 
-Communications Facility 489
+Sorbonnelaan2
 
-Western Washington University
+3584 CA Utrecht
 
-Bellingham, WA 98225
+The Netherlands
 
-USA
+@: A.Tsikerdekis@sron.nl
 
-@: Michael.Tsikerdekis@wwu.edu
-
-W: http://michael.tsikerdekis.com
+W: https://thanos.tsikerdekis.com
 
