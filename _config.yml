@@ -11,7 +11,7 @@ title                    : "Thanos Tsikerdekis"
 title_separator          : "-"
 name                     : &name "Michael Tsikerdekis"
 description              : &description "Assistant Profssor, Computer Science, Western Washington University"
-url                      : https://tsikerdekis.github.io/thanos.tsikerdekis.com
+url                      : https://thanos.tsikerdekis.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsikerdekis/thanos.tsikerdekis.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
