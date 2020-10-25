@@ -18,3 +18,4 @@ Over the last few years I had the opportunity to work with various climate relat
 As you already figured out I have a broad interest on anything related to Earth's system, but my passion is not limited on our small rocky planet. Astronomy and anything space related always fascinated me. Although I don't actively participate scientifically on these field, I closely follow the latest news about our solar system or the discovery of new exoplanets and the theories on how these planetary systems may be.
 
 I hope you find something useful/helpful on this web page. Take care and keep in touch!
+test
